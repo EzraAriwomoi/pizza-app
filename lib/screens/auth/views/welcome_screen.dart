@@ -31,7 +31,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> with TickerProviderStateM
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-			backgroundColor: Theme.of(context).colorScheme.background,
+			backgroundColor: Theme.of(context).colorScheme.surface,
 			body: SingleChildScrollView(
 				child: SizedBox(
 					height: MediaQuery.of(context).size.height,
@@ -73,8 +73,8 @@ class _WelcomeScreenState extends State<WelcomeScreen> with TickerProviderStateM
 												padding: const EdgeInsets.symmetric(horizontal: 50.0),
 												child: TabBar(
 													controller: tabController,
-													unselectedLabelColor: Theme.of(context).colorScheme.onBackground.withOpacity(0.5),
-													labelColor: Theme.of(context).colorScheme.onBackground,
+													unselectedLabelColor: Theme.of(context).colorScheme.onSurface.withOpacity(0.5),
+													labelColor: Theme.of(context).colorScheme.onSurface,
 													tabs: const [
 														Padding(
 															padding: EdgeInsets.all(12.0),
