@@ -7,7 +7,7 @@ Welcome to Pizza World, your ultimate destination for ordering delicious pizzas!
   <div style="display: inline-block; margin: 10px;">
     <img src="file/signup.jpg" alt="signup">
   </div>
-  <div style="display: inline-block; margin: 10px;">
+  <div style="display: inline-block; margin: 0px;">
     <img src="file/login.jpg" alt="login">
   </div>
   <div style="display: inline-block; margin: 10px;">
