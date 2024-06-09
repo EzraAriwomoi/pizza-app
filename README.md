@@ -3,11 +3,11 @@
 Welcome to Pizza World, your ultimate destination for ordering delicious pizzas! This README will guide you through the features and functionalities of our pizza ordering application built using Flutter and Firebase.
 
 ## Preview
-<div style="text-align: center; display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
-  <img src="file/signup.jpg" alt="signup" style="margin: 30px;">
-  <img src="file/login.jpg" alt="login" style="margin-left: 30px;">
-  <img src="file/homepage.jpg" alt="homepage" style="margin: 30px;">
-  <img src="file/description.jpg" alt="description" style="margin: 30px;">
+<div style="text-align: center; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="file/signup.jpg" alt="signup" style="margin: 10px;">
+  <img src="file/login.jpg" alt="login" style="margin: 10px;">
+  <img src="file/homepage.jpg" alt="homepage" style="margin: 10px;">
+  <img src="file/description.jpg" alt="description" style="margin: 10px;">
 </div>
 
 ## Features
