@@ -5,7 +5,7 @@ Welcome to Pizza World, your ultimate destination for ordering delicious pizzas!
 ## Preview
 <div style="text-align: center; display: flex; justify-content: center; gap: 50px; flex-wrap: wrap;">
   <img src="file/signup.jpg" alt="signup" style="margin: 30px;">
-  <img src="file/login.jpg" alt="login" style="margin: 30px;">
+  <img src="file/login.jpg" alt="login" style="margin-left: 30px;">
   <img src="file/homepage.jpg" alt="homepage" style="margin: 30px;">
   <img src="file/description.jpg" alt="description" style="margin: 30px;">
 </div>
